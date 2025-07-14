@@ -1,0 +1,8 @@
+# Ignore dataset files and temp folders
+data/
+*.csv
+*.log
+*.tmp
+__pycache__/
+.venv/
+.ipynb_checkpoints/
