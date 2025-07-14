@@ -26,5 +26,3 @@ We explored and compared three approaches to descriptive statistics:
 I used the following public dataset:
 
 🔗 [Download Twitter Posts CSV](https://drive.google.com/file/d/1Jq0fPb-tq76Ee_RtM58fT0_M3o-JDBwe/view?usp=sharing)
-
-> **Note:** The dataset is not included in this repository. Please download and place it in the `data/` folder:
